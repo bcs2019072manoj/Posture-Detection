@@ -1,5 +1,5 @@
-ITRODUCTION
-Human posture detection is now widely explored in many application contexts, ranging from
+                                                          <h2>ITRODUCTION </h2><br>
+ Human posture detection is now widely explored in many application contexts, ranging from
  content-based retrieval, surveillance, indoor and outdoor monitoring, virtual reality until 
 animation and entertainment. In particular, we are interested in human posture detection in the
  framework of home-human interface. The scope is twofold. The former is to improve the control
