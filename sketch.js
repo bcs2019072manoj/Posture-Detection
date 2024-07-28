@@ -63,7 +63,7 @@ function draw() { // this function code runs in infinite loop
         image(specs, singlePose.nose.x-40, singlePose.nose.y-70, 125, 125);
        image(smoke, singlePose.nose.x-35, singlePose.nose.y+28, 50, 50);
     }
-    
+    /*
     //background(200);
    // 1.point
     point(200, 200);
@@ -97,4 +97,5 @@ function draw() { // this function code runs in infinite loop
     
    // IMAGE CAPTURE
    image(capture, 0, 0, 800, 600);
+   */
 }
